@@ -1,10 +1,7 @@
 # Address_Book
 
 This App is written in Java.<br/>
-I used the Java Extension on Visual Studio Code.<br/>
-You will also need the JavaFX Extension as well if you are using this method. <br/>
-This link will take you to the Java extension: https://code.visualstudio.com/docs/java/java-tutorial <br/>
-This link will take you to the JavaFX extention https://code.visualstudio.com/docs/java/java-gui <br/>
-Download the zip and extract the file.<br/>
-Open the go onto VSCode and open the addbook folder as the project.<br/>
-click on the App.java file and this should run the program.<br/>
+In order to run the program you need to have Java installed<br/>
+You will need to make a copy of the Java Runtime Environment Folder and paste it into the Folder.<br/>
+Then Rename the Folder to "JRE" <br/>
+Then double click on the .exe and it should run if you did it correctly. <br/>
